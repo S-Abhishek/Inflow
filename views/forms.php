@@ -174,7 +174,7 @@
   <hr>
     <div class='slab row'>
         <div class='textleft col-md-4'>
-            <h1> Bus route</h1>
+            <h1> Tag system</h1>
             <span> Classify all your work <br>in neat tags and group them<br> based on priorities </span>
         </div>
         <div class='imagr col-md-8'>
